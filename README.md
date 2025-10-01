@@ -8,17 +8,17 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - DirectX
 
 ## Master’s in Computer Game Development UNIVR - PROJECTS 🧪
-- Physics Programming (Physics cannon)
+- Physics Programming (Physics cannon - Unreal Engine 5.6)
   - Project code: [GitLab project]
   - Youtube video: [Demo](https://youtu.be/Cqvgxpl3usk?si=59c4xuC7kS-Zt5lR)
 
-- Graphics Programming (Arkanoid)
+- Graphics Programming (Arkanoid - DirectX)
   - Project code: [GitLab project]
   - Youtube video: [Demo]
  
-- Sound Programming (Creation of a simple wrapper based on FMOD Core API)
+- Sound Programming (Creation of a simple wrapper based on FMOD Core API - C++)
   - Project code: [GitLab project]
   - Youtube video: [Demo] 
 
-- Advanced Graphics Programming (The Quaternions Class)
+- Advanced Graphics Programming (The Quaternions Class - C++)
   - Project code: [GitLab project]
