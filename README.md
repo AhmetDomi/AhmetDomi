@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there👋
+I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm currently pursuing a Postgraduate Master’s in Computer Game Development, where I focus on programming and building video games using C++, Unreal Engine, and Unity.
 
-<!--
-**AhmetDomi/AhmetDomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills in Game Dev environment 💻
+- C/C++/C#
+- Unreal Engine
+- Unity
+- DirectX
 
-Here are some ideas to get you started:
+## Master’s in Computer Game Development UNIVR - PROJECTS 🧪
+- Physics Programming (Physics cannon)
+  - Project code: [GitLab project]
+  - Youtube video: [Demo](https://youtu.be/Cqvgxpl3usk?si=59c4xuC7kS-Zt5lR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
