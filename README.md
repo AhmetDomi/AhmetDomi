@@ -22,4 +22,3 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 
 - Advanced Graphics Programming (The Quaternions Class)
   - Project code: [GitLab project]
-  - Youtube video: [Demo]
