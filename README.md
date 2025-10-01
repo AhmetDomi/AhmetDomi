@@ -12,3 +12,14 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
   - Project code: [GitLab project]
   - Youtube video: [Demo](https://youtu.be/Cqvgxpl3usk?si=59c4xuC7kS-Zt5lR)
 
+- Graphics Programming (Arkanoid)
+  - Project code: [GitLab project]
+  - Youtube video: [Demo]
+ 
+- Sound Programming (Creation of a simple wrapper based on FMOD Core API)
+  - Project code: [GitLab project]
+  - Youtube video: [Demo] 
+
+- Advanced Graphics Programming (The Quaternions Class)
+  - Project code: [GitLab project]
+  - Youtube video: [Demo]
