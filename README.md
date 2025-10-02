@@ -19,6 +19,3 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - Sound Programming (Simple wrapper based on FMOD Core API - C++)
   - Project code: [GitLab project]
   - Youtube video: [Demo] 
-
-- Advanced Graphics Programming (The Quaternions Class - C++)
-  - Project code: [GitLab project]
