@@ -15,8 +15,11 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - Graphics Programming (Arkanoid - DirectX)
   - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/graphicsprogramming/ahmet_domi)
   - Youtube video: [Demo](https://youtu.be/bF-abUgNl5o?si=HKvM10blFBHqqixE)
- <!--
+    
+- Advanced Graphics (The Quaternions Class - C++ on VisualStudio 2022)
+  - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/advgraphicsprogramming/ahmet_domi)
+
 - Sound Programming (Simple wrapper based on FMOD Core API - C++)
-  - Project code: [GitLab project]
-  - Youtube video: [Demo] 
+  - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/sound-programming/ahmet_domi)
+  <!-- - Youtube video: [Demo] 
 -->
