@@ -21,5 +21,8 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 
 - Sound Programming (Simple wrapper based on FMOD Core API - C++)
   - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/sound-programming/ahmet_domi)
+ 
+- Game Engine Programming (Platform 3D - Unreal Engine 5)
+   - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/ahmet_domi)
   <!-- - Youtube video: [Demo] 
 -->
