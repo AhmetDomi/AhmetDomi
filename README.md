@@ -27,7 +27,7 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 
 ## Global Game Jams - PROJECTS :video_game:
 - Global Game Jam 2026 (Unity - C#) -> TOPIC: MASK
-   - Game Build: [https://globalgamejam.org/games/2026/demonic-dilemma-8)
+   - Game Build: [Demonic Dilemma](https://globalgamejam.org/games/2026/demonic-dilemma-8)
    - Youtube video:
 
 
