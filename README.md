@@ -26,8 +26,8 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
    - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/ahmet_domi)
 
 ## Global Game Jams - PROJECTS :video_game:
-- Global Game Jam 2026 (Unity - C#) -> Topic: MASK
-   - Project Build:
+- Global Game Jam 2026 (Unity - C#) -> TOPIC: MASK
+   - Game Build: [https://globalgamejam.org/games/2026/demonic-dilemma-8)
    - Youtube video:
 
 
