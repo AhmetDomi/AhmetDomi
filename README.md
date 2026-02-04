@@ -7,7 +7,7 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - Unity
 - DirectX
 
-## Master’s in Computer Game Development UNIVR - PROJECTS 🧪
+## First-level master's degree in Computer Game Development UNIVR - PROJECTS 🧪
 - Physics Programming (Physics cannon - Unreal Engine 5.6)
   - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/physics-programming/ahmet_domi)
   - Youtube video: [Demo](https://youtu.be/Cqvgxpl3usk?si=59c4xuC7kS-Zt5lR)
