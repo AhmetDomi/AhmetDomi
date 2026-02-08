@@ -22,12 +22,13 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - Sound Programming (Simple wrapper based on FMOD Core API - C++)
   - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/sound-programming/ahmet_domi)
  
-- Game Engine Programming (Platform 3D - Unreal Engine 5)
+- Game Engine Programming (Platform 3D - Unreal Engine 5.5)
    - Project code: [GitLab project](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/ahmet_domi)
+   - Youtube video: [Demo](https://youtu.be/AfnVEzzMAuI?si=CdBLugRw6chAxpkI)
 
 ## Global Game Jams - PROJECTS :video_game:
-- Global Game Jam 2026 (Unity - C#) -> TOPIC: MASK
+- Global Game Jam 2026 (Unity 6 - C#) -> TOPIC: MASK
    - Game Build: [Demo](https://globalgamejam.org/games/2026/demonic-dilemma-8)
-   - Youtube video:
+   - Youtube video: [Demo](https://youtu.be/opPGQOB7znA?si=4tJlKo9osf_zL28T)
 
 
