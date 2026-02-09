@@ -25,6 +25,9 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
 - Game Engine Programming (Platform 3D - Unreal Engine 5.5)
    - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/ahmet_domi)
    - Youtube video: [Demo](https://youtu.be/AfnVEzzMAuI?si=CdBLugRw6chAxpkI)
+ 
+- Laboratory - Final Project (DEMO Beta Prism - Unreal Engine 5.6)
+   - Youtube video: [Gameplay](https://www.youtube.com/watch?v=4JyViuOKCtk)
 
 ## Global Game Jams - PROJECTS :video_game:
 - Global Game Jam 2026 (Unity 6 - C#) -> TOPIC: MASK
