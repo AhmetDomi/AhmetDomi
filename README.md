@@ -26,17 +26,17 @@ I'm Ahmet from Italy. I hold a Bachelor's degree in Computer Science and a Postg
    - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/ahmet_domi)
    - Youtube video: [Demo](https://youtu.be/AfnVEzzMAuI?si=CdBLugRw6chAxpkI)
  
-- Network Programming (Networked Physics Cube - Unity 6 - C# & Photon)
+- Network Programming (Networked Physics Cube - Unity 6 & Photon)
    - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/network-programming/ahmet_domi)
      
- - Mobile Programming (Shin Pang "Arcade 2D Game" - Unity 6 - C#)
+ - Mobile Programming (Shin Pang "Arcade 2D Game" - Unity 6)
    - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/mobile/ahmet_domi)
  
 - Laboratory - Final Project (DEMO Beta Prism - Unreal Engine 5.6)
    - Youtube video: [Gameplay](https://www.youtube.com/watch?v=4JyViuOKCtk)
 
 ## Global Game Jams - PROJECTS :video_game:
-- Global Game Jam 2026 (Unity 6 - C#) -> TOPIC: MASK
+- Global Game Jam 2026 (Unity 6) -> TOPIC: MASK
    - Game Build: [Demo](https://globalgamejam.org/games/2026/demonic-dilemma-8)
    - Youtube video: [Gameplay](https://youtu.be/opPGQOB7znA?si=4tJlKo9osf_zL28T)
 
