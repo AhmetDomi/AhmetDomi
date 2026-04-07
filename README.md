@@ -38,7 +38,11 @@ Networked Physics Cube is a Unity 6 project built with Photon to demonstrate the
  ### Mobile Programming (Shin Pang "Arcade 2D Game") ![Unity](https://img.shields.io/badge/Unity%206-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)<br>
  The goal of this project, developed in Unity 6, is to recreate a classic 2D arcade game called Pang.
    - [![Project](https://img.shields.io/badge/GitLab-Code-orange?style=flat&logo=gitlab)](https://gitlab.com/mastergamedev-vr/student-2425/mobile/ahmet_domi)
- 
+
+ ### AI Programming (Football game's AI) ![Unity](https://img.shields.io/badge/Unity%202018-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)<br>
+This project, developed in Unity 2018 with C#, implements a custom football AI capable of playing in 2v2 and 3v3 modes.
+The AI manages both defensive and offensive movements, implementing tactics based on the positions of the opposing team and the ball.
+
 ### Laboratory - Final Project (DEMO Beta Prism) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205.6-0E1128?style=flat&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br>
 This beta version of our lab game is a turn-based JRPG in which the dungeon is randomly generated each time you play. The project was developed by a team of six programmers, each of whom (in addition to their role as programmers) performed other tasks typical of the video game development pipeline. I served as producer, designer, and programmer.
 The parts I developed relate to the basic classes of characters and enemies, their statistics, combat actions, the enemy user interface during combat, and the management of consumable points. In addition to development tasks, I participated in drafting the game design document and organized the team's work by dividing it into tasks and subtasks with priorities. The main difficulty we encountered was managing the turn manager during the combat phase; the approach we took to manage this was to use the observer design pattern.
