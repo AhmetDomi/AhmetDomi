@@ -27,7 +27,7 @@ I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm 
    - Youtube video: [Demo](https://youtu.be/AfnVEzzMAuI?si=CdBLugRw6chAxpkI)
  
 - Network Programming (Networked Physics Cube - Unity 6 - C# & Photon)
-   - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/network-programming/ahmet_domi)ù
+   - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/network-programming/ahmet_domi)
      
  - Mobile Programming (Shin Pang "Arcade 2D Game" - Unity 6 - C#)
    - Project code: [Project](https://gitlab.com/mastergamedev-vr/student-2425/mobile/ahmet_domi)
