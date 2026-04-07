@@ -1,5 +1,5 @@
 ## Hello there👋
-I'm Ahmet from Italy, and I hold a Bachelor’s degree in Computer Science. I'm currently pursuing a Postgraduate Master’s in Computer Game Development, where I focus on programming and building video games using C++, Unreal Engine, and Unity.
+I'm Ahmet from Italy. I hold a Bachelor's degree in Computer Science and a Postgraduate Master's in Computer Game Development, where I focused on programming and building video games using C++, Unreal Engine, and Unity.
 
 ## Skills in Game Dev environment 💻
 - C/C++/C#
